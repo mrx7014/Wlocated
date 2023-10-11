@@ -11,7 +11,7 @@
 <br>
 <div align="center">
   
-**Developed and brought to you by Team Hacker Ship**
+**Developed and brought to you by MRX7014**
 </div>
 
 <div align="center">
@@ -79,7 +79,7 @@ wget https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-linux-386.tgz ; tar -x
 ```diff
 ngrok config add-authtoken 2TfmXXXXXXXXXXXXXXXXXXXXXXXX
 ```
-> Don't copy this command it's just a example
+> Don't copy this command it's just an example
 >
 
 - **Now authtoken added,let's know how to use tool after install ngrok.**
